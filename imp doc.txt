@@ -1,0 +1,147 @@
+https://wd103.myworkday.com/accenture/d/home.htmld
+
+https://deepknowledge.accenture.com/course/view.php?id=1684  (Gen AI)
+
+https://deepknowledge.accenture.com/course/view.php?id=1693(prompt eng)
+
+https://deepknowledge.accenture.com/course/view.php?id=1822(prompt eng using python)
+
+Key Topics : 
+1)	What is Generative AI 
+2)	Difference between 
+Discriminative  and Generative 
+3)	 Architecture of GenAI – quote the examples of each 
+GAN – Deep fakes , 2014 
+Diffusion model – Imagen , Sora , DALL E , Stable diffusion 
+Variational Auto encoders -
+ 
+4)	NLP – 
+Traditional models  
+RNN , LSTN , GRU 
+Transformers : Vaswani in 2017 Google brain team 
+Attention mechanism : Self attention and Muti head attention 
+The architecture of Transformers use Embedding as a fundamental step . 
+Encoder and decoder
+GPT are decoder only : Masked self attention mechanism  
+ 
+LLM ‘s  are what  
+5)	Foundation Models 
+Fine tuning , LORA , PEFT 
+Domain specific data , medical data 
+6)	GPU and CPU 
+7)	Buy, Boost or Build  
+8)	RAG 
+Retrievers and generators 
+Query ----Embedding (Dense Vector )----Vector databases like FAISS , Croma DB etc (Storing , Indexing , comparison , retrieval )cosine similarity ----Generation (LLMs ) 
+Problems : 
+Hallucination 
+Strong coupling between retriever and generators 
+Transparency 
+XRAG, RAGFlow, RAGNA
+ 
+
+Platform on which RAG can be easily implemented is LangChain 
+LanGraph
+ 
+Text generation -ChatGPT (text generation). Claude AI -  Claude more capable of excelling at certain tasks, such as parsing large texts and documents, like PDFs
+•	Image generation- DALL·E or Midjourney , Imagen (image generation),SORA
+•	Imagen – Text to image diffusion models . 
+•	Music generation-MusicGen, MusicLM , AudioLDM
+•	Video generation -RunwayML
+•	Code generation – ChatGPT , Github copilot 
+•	Generating new sequence of protein , a unique chain of amino acids for developing new medicines and vaccines .
+Chat GPT is not open source  
+•	Open-source alternatives:
+o	Meta's LLaMA models (especially LLaMA 2 & 3 — with restricted licenses)
+o	Mistral, Falcon, GPT-NeoX, and BLOOM — community-accessible LLMs
+•	Small GPT models: Models like GPT-2 are open source (including weights and architecture).
+
+
+Please follow the following links(3 links ) to start the blended program : 
+Gen AI fundamentals :https://deepknowledge.accenture.com/course/view.php?id=1684
+Prompt Engineering :https://deepknowledge.accenture.com/course/view.php?id=1693
+Prompt Engineering using python :https://deepknowledge.accenture.com/course/view.php?id=1822
+
+
+(22-5-25)-
+Types of Prompts
+Categories: Instructional, In-context (e.g., financial summary), Informative, Reflective, Collaborative, Role-play, Formal, Casual, Chain-of-Thought, Multi-hop.
+Attributes: Coherence, Locale.
+Examples/Seeds: Words like summarize, explain, describe, code, list, generate, state, design help guide output direction.
+Keywords: Central concepts/topics.
+Shots: Few-shot, one-shot, zero-shot examples used in prompting.
+Special Tools: Sentiment analysis, delimiters, redaction, prompt injection mitigation.
+🔹 Hard vs Soft Prompts
+Hard Prompt: Static, rule-based instructions.
+Soft Prompt: Trainable embeddings.
+Do’s & Don’ts:
+Don’t anthropomorphize the model.
+Avoid hallucination-prone or untruthful prompts (e.g., "Why is smoking healthy?").
+🔹 Cohere Platform Overview
+⚙️ Model Families
+Command: General-purpose model.
+Command-R / R+: RAG-enabled for retrieval-augmented generation (RAG).
+Note: No image generation; Cohere is text-only.
+🔹 Cohere Functions
+co.generate()
+Text generation (not compatible with command-r/r+).
+Key Parameters: prompt, temperature, max_tokens, stop_sequences.
+co.summarize()
+Summarizes text using command or command-light.
+Key Parameters: model, extractiveness, length, text.
+co.chat()
+Maintains conversational context.
+Parameters: message, model, chat_history, temperature, max_tokens, preamble, connectors, tools, tool_results, citation_quality, search_queries_only, truncate.
+co.rerank()
+Ranks documents by relevance to a query using semantic similarity.
+Outputs relevance scores and reorders docs.
+co.embed()
+Converts text into dense vector embeddings for retrieval or similarity tasks.
+ 
+
+ATCI.internship@accenture.com
+
+https://teams.microsoft.com/l/message/19:meeting_ODk2ZjhjOTUtMWRiOS00Yzc5LWE3Y2UtYWEzNGFkZWM1Y2Q3@thread.v2/1747980365704?context=%7B%22contextType%22%3A%22chat%22%7D
+
+
+https://myte.accenture.com/#/time
+
+
+https://wd103.myworkday.com/accenture/d/home.htmld
+
+
+https://support-places.accenture.com/places?id=places_search
+
+
+https://www.mongodb.com/try/download/community : Mangodb installer
+
+
+https://www.mongodb.com/try/download/compass
+
+
+C:\Users\vaishnavi.salgare>C:\Program Files\MongoDB\Server\8.0\bin
+'C:\Program' is not recognized as an internal or external command,
+operable program or batch file.
+
+C:\Users\vaishnavi.salgare>cd..
+
+C:\Users>cd..
+
+C:\>cd C:\Program Files\MongoDB\Server\8.0\bin
+
+jdk-17.0.4_windows-x64_bin.exe
+
+https://www.mongodb.com/try/download/community
+
+https://www.postman.com/downloads/
+
+reserve bus:https://india.etransport.accenture.com/IDCShuttles/MyShuttle/ReserveSeat.aspx
+
+https://git-scm.com/downloads
+
+ETMS:App bus
+
+
+Learning course:
+
+https://networks.learning.accenture.com/app/#/home

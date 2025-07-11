@@ -1,0 +1,17 @@
+Insertion :
+
+/** 
+* Paste one or more documents here
+*/
+
+  {
+  "_id": { "$oid": "68429864025d232dd1bf9051" },
+  "firstName": "Alice",
+  "lastName": "bonus",
+  "dateOfBirth": { "$date": "2000-07-14T00:00:00Z" },
+  "address": "Pune",
+  "contactChannel": 56,
+  "genderIdentity": "F",
+  "partyId": "no.1"
+}
+
